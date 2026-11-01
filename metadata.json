@@ -2,5 +2,5 @@
   "name": "MA Calculator",
   "description": "A beautiful, modern calculator with dark mode, scientific functions, unit converter, speech input, and history support.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
